@@ -53,17 +53,17 @@ h1,h2,h3,h4,h5
 }
 #about, #contact
 {
-    padding-top: 100px;
+    padding-top: 10%;
     padding-bottom: 120px;
 }
 
 #home
 {
     background: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.9)), url('../images/main-logo.png');
-    background-size: cover;
+    background-size: 100%;
     background-repeat: no-repeat;
     padding-top: 260px;
-    padding-bottom: 260px;
+    padding-bottom: 10%;
     text-align: center;
 }
 #home h1
@@ -158,7 +158,6 @@ h1,h2,h3,h4,h5
     text-align: center;
     margin-right: 20px;
 }
-
 footer
 {
     border-top: 1px solid #090909;
@@ -169,4 +168,13 @@ footer
 footer hr
 {
     width: 100px;
+}
+.col-md-8 {
+    padding-top: 18%;
+}
+#col-md-8 {
+    display:none;
+}
+div#__next-prerender-indicator {
+    display: none;
 }

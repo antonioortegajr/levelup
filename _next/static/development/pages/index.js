@@ -10603,7 +10603,7 @@ var Home = function Home() {
     __self: this
   }), __jsx("meta", {
     name: "description",
-    content: "Leve Up Arcade in Eugene, Open 7 days a week from 2PM Until 2AM on Weekdays, and Noon until 2AM on Weekends. All ages welcome until 9PM, 21+ after 9PM.",
+    content: "Level Up Arcade in Eugene, Open 7 days a week from 2PM Until 2AM on Weekdays, and Noon until 2AM on Weekends. All ages welcome until 9PM, 21+ after 9PM.",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 12
@@ -10756,7 +10756,7 @@ var Home = function Home() {
       lineNumber: 40
     },
     __self: this
-  }, "Inside you will find lots of standup arcade games, pinball machines, group party games, drivers, shooters, golf and much more. On Friday/Saturday, we have a DJ spinning tunes.")))), __jsx("div", {
+  }, "Inside you will find lots of standup arcade games, pinball machines, group party games, drivers, shooters, golf, and much more. On Friday/Saturday, we have a DJ spinning tunes.")))), __jsx("div", {
     "class": "col-md-4 col-xs-11",
     __source: {
       fileName: _jsxFileName,
@@ -10870,7 +10870,7 @@ var Home = function Home() {
       lineNumber: 71
     },
     __self: this
-  }), "Eveybody welcome until 9:00 PM, 21+ only after 9:00 PM."))))))), __jsx("div", {
+  }), "Everybody welcome until 9:00 PM, 21+ only after 9:00 PM."))))))), __jsx("div", {
     id: "contact",
     "class": "section",
     __source: {
