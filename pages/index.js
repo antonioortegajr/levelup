@@ -9,7 +9,7 @@ const Home = () => (
             <link rel="icon" href="/images/favicon.ico" />
             <meta charset="utf-8" />
             <meta name="keywords" content="Level Up Arcade, Eugene, OR, Oregon, Barcade, Pinball, Drinks, Events" />
-            <meta name="description" content="Leve Up Arcade in Eugene, Open 7 days a week from 2PM Until 2AM on Weekdays, and Noon until 2AM on Weekends. All ages welcome until 9PM, 21+ after 9PM." />
+            <meta name="description" content="Level Up Arcade in Eugene, Open 7 days a week from 2PM Until 2AM on Weekdays, and Noon until 2AM on Weekends. All ages welcome until 9PM, 21+ after 9PM." />
             <meta name="author" content="Antonio Ortega Jr, Bau Kim" />
             <meta name="viewport" content="width=device-width, initial-scale=1" />
         </Head>
@@ -39,7 +39,7 @@ const Home = () => (
                                 <h3 class="media-heading">Come Join the Fun</h3>
                                 <p>
                                     Inside you will find lots of standup arcade games,
-                                    pinball machines, group party games, drivers, shooters, golf and much more.
+                                    pinball machines, group party games, drivers, shooters, golf, and much more.
                                     On Friday/Saturday, we have a DJ spinning tunes.
                                 </p>
                             </div>
@@ -69,7 +69,7 @@ const Home = () => (
                                     We are open 7 days a week, from <b>2:00 PM until 2:00 AM</b> weekdays
                                     and <b>12:00 PM until 2:00 AM</b> on weekends.
                                     <br />
-                                    Eveybody welcome until 9:00 PM, 21+ only after 9:00 PM.
+                                    Everybody welcome until 9:00 PM, 21+ only after 9:00 PM.
                                 </p>
                             </div>
                         </div>
